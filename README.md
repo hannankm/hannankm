@@ -4,9 +4,9 @@
 </div>
 
 - 👋 Hi, I’m Hanan!
-- 👀 I’m interested in full stack web developemnt, cloud computing, and mobile development.
+- 👀 I’m interested in full stack web developement, cloud computing, and mobile development.
 - 🌱 I’m currently learning JavaScript and it's framweorks!
-- 💞️ Aside from proramming, I enjoy baking, reading, and watching football gaems!
+- 💞️ Aside from proramming, I enjoy baking, reading, and watching football games!
 - 📫 How to reach me @hanankmoh@gmail.com
 -
 
