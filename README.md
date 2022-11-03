@@ -12,7 +12,7 @@
 
 <h3>Link to my Socials</h3>
 <div id="badges">
-  <a href="http://www.linkedin.com/in/hanankmoh"> target="_blank"
+  <a href="http://www.linkedin.com/in/hanankmoh" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
